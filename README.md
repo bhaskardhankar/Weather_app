@@ -24,9 +24,6 @@ A simple and responsive weather app built with HTML, CSS, and JavaScript that sh
 This app uses the [OpenWeatherMap API](https://openweathermap.org/api).  
 To use your own key, replace the `apiKey` value in `index.html`.
 
-## Screenshots
-(Add your screenshot here)
-
 ## Author
 **Bhaskar Dhankar**  
 GitHub: [@bhaskardhankar](https://github.com/bhaskardhankar)
